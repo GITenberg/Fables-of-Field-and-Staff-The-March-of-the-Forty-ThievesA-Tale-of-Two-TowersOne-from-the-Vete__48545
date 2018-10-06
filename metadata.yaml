@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Fables of Field and Staff
 
   The March of the Forty Thieves—A Tale of Two Towers—One from the Veteran—Woodleigh,
